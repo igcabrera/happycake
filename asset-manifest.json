@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/happycake/static/css/main.ec0843cb.css",
+    "main.js": "/happycake/static/js/main.f8599771.js",
+    "static/media/cake.png": "/happycake/static/media/cake.43c3b574cf32ac61ff46.png",
+    "index.html": "/happycake/index.html",
+    "main.ec0843cb.css.map": "/happycake/static/css/main.ec0843cb.css.map",
+    "main.f8599771.js.map": "/happycake/static/js/main.f8599771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec0843cb.css",
+    "static/js/main.f8599771.js"
+  ]
+}
